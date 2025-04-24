@@ -17,8 +17,8 @@
 
 - **PHP** – Backend scripting
 - **MySQL** – Database management
-- **HTML/CSS** – Frontend layout and styling
-- **JavaScript** – Interactivity (assumed from project structure)
+- **HTML** – Frontend layout
+- **Bootstrap** – Styling
 
 ## 📁 Project Structure
 
